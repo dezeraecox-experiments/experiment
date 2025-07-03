@@ -6,3 +6,7 @@
 
 # VSCode files
 *.vscode
+
+# Data
+raw_data/*
+results/*
